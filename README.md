@@ -2,6 +2,7 @@
   **Made at SBHacks 2021** | *Ahmed Elkordy, Agilan Ampigaipathar, Alan Chang*
   
   :trophy: WINNER of the [Stacks] Best Smart Contract Hack using Clarity :trophy:
+  
   DevPost: https://devpost.com/software/margin-trading-failsafe-smart-contract
 
   This smart contract written in Clarity for the Stacks blockchain helps facilitate a margin-trading account
