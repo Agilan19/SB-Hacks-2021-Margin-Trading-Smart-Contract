@@ -1,5 +1,5 @@
 # SB Hacks 2021 Hackathon Margin Trading Smart Contract
-  **Made at SBHacks 2021** | *Ahmed Elkordy, Agilan Ampigaipathar, Alan Chang*
+  **Made at SBHacks 2021** | * Ahmed Elkordy, Agilan Ampigaipathar, Alan Chang *
   
   :trophy: WINNER of the [Stacks] Best Smart Contract Hack using Clarity :trophy:
   
